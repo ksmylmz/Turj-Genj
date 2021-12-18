@@ -3,7 +3,7 @@
 #                         <center> [>> PLAY  <<](https://ksmylmz.github.io/Turj-Genj/) </center>
 
 
-> ### Türkiye'de yaşayan bir gencin yaşamn mücadelesini konu alan bu oyunu henüz oynamadıysan, çok şey kaçırdın demektir. S
+> ### Türkiye'de yaşayan bir gencin yaşamn mücadelesini konu alan bu oyunu henüz oynamadıysan, çok şey kaçırdın demektir.
 
 
 <br>
