@@ -6,7 +6,7 @@ export const problems=[
 "YKS",
 "Biz sizi ararız",
 "Mobbing",
-"N yıl tecrübe",
+"N yıl tecrübe lazım",
 "Mahalle Baskısı",
 "Kadın cinayetleri",
 "Cyberbullying",
