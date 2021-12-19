@@ -77,8 +77,8 @@ function updateScore(delta) {
 //setupGround();
 
 function checkLose() {
-    const dinoRect = getGenjRect()
-    return getSpikeRects().some(rect => isCollision(rect, dinoRect))
+    const genjRect = getGenjRect()
+    return getSpikeRects().some(rect => isCollision(rect, genjRect))
 }
 
 function isCollision(rect1, rect2) {
