@@ -2,7 +2,7 @@ import { setupSpike, updateSpike, getSpikeRects } from "./spike.js";
 import { setupGenj, updateGenj, getGenjRect, setGenjLose } from "./genj.js";
 import { setupGround, updateGround } from "./ground.js";
 const WORLD_WIDTH = 100;
-const WORLD_HEIGHT = 60;
+const WORLD_HEIGHT = 30;
 const SPEED_SCALE_INCREASE = .00001;
 var worldElement = document.querySelector('#world');
 var scoreEl = document.querySelector('.score');
