@@ -19,6 +19,7 @@ export function setupGenj(){
     setCustomProperty(genjEl,"--buttom",0);
     document.removeEventListener("keydown", onJump)
     document.addEventListener("keydown", onJump)
+    document.addEventListener("touchstart", onJump);
 
 }
 
@@ -51,7 +52,7 @@ function handleJump(delta) {
 }
 
 function onJump(e){
-    if(e.code==="Space" || isJumping){
+    if(e.code==="Space" || isJumping  || e.touches.length>0){
         yVelocity = JUMP_SPEED;
         isJumping=true;
         updateProblem();

@@ -10,6 +10,7 @@ var startScreenEl = document.querySelector('.start-screen');
 
 window.addEventListener("resize", setPixelWorldScale);
 window.addEventListener("keydown", handleStart, { once: true });
+window.addEventListener("touchstart", handleStart, { once: true });
 setPixelWorldScale();
 
 
@@ -59,6 +60,7 @@ function handleLose() {
     setGenjLose();
     setTimeout(() => {
         document.addEventListener("keydown", handleStart, { once: true })
+        document.addEventListener("touchstart", handleStart, { once: true })
         startScreenEl.classList.remove("hide")
     }, 100);
 }
