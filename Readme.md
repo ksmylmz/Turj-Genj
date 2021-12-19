@@ -1,6 +1,6 @@
 
 
-#                         <center> [>> PLAY  <<](https://ksmylmz.github.io/Turj-Genj/) </center>
+#                         <a href="https://bit.ly/3FcyLe4" target="_blank"> >>> PLAY  <<< </a> 
 
 
 > ### Türkiye'de yaşayan bir gencin yaşamn mücadelesini konu alan bu oyunu henüz oynamadıysan, çok şey kaçırdın demektir.
